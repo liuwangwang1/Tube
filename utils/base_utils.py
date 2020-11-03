@@ -1,6 +1,3 @@
-# -*- coding:utf-8 -*-
-from faker import Faker
-
 class Singleton(object):
     _instance = None
 
